@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "768b32b2852216edcf8a5398edf4e779",
 # 模板消息id
-"template_id": "st5Qhn87nKnyidxzaWP4nMqrSrBzP5qCEYh8UviWKZE",
+"template_id": "KeIcg7tbQO9dzt-zwvwBZiWdbXdYkI0FJfj-jJpK-7Q",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
-"user": ["o8t2g6uVZ_G5u6MXo4NOp4d2zYgo"],
+"user": ["o8t2g6uVZ_G5u6MXo4NOp4d2zYgo","o8t2g6v-PPyGtsDHYrQ04Ub1MG1Q"],
  
 # 信息配置
 # 和风天气apikey
@@ -17,7 +17,7 @@
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "熊苓妃", "birthday": "2002-08-02"},
 # 生日2
-"birthday2": {"name": "笨比", "birthday": "2002-08-02"},
+"birthday2": {"name": "笨比", "birthday": "r2001-09-24"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-01-01",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
